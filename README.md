@@ -46,21 +46,6 @@
 
 ---
 
-## 📂 Projects
-
-### 🛒 Amazon Clone
-
-* Built using **HTML, CSS**
-* Responsive UI design
-* Focused on layout & frontend skills
-
-### 🎵 Spotify Clone
-
-* Music UI clone with modern design
-* Practiced UI/UX concepts
-
----
-
 ## 📊 GitHub Stats
 
 ![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavkumar8876\&show_icons=true\&theme=tokyonight)
