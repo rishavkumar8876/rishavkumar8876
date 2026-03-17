@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on **LocalEase – Hyperlocal Marketplace**
-* 🌱 Learning **MERN Stack & Advanced Backend (Spring Boot)**
-* 💡 Strong in **Java, OOP, APIs, JWT Authentication**
+* 🔭 Currently working on **Web Development**
+* 🌱 Learning **MERN Stack**
+* 💡 Strong in **Java, JavaScript, OOP, APIs, JWT Authentication**
 * 🤝 Looking to collaborate on **Open Source & Web Projects**
 * ⚡ Fun fact: I enjoy solving problems & building real-world apps
 
@@ -16,8 +16,8 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/rishav-kumar-02242731b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:rishavkumarjmp95@gmail.com)
 
 ---
 
@@ -63,11 +63,11 @@
 
 ## 📊 GitHub Stats
 
-![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavkumar8876\&show_icons=true\&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishavkumar8876\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavkumar8876\&layout=compact\&theme=tokyonight)
 
 ---
 
