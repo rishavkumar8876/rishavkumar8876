@@ -1,261 +1,371 @@
-<div align="center">
+# 👋 Hi there! I'm Rishav Kumar
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishav%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%20Integrations&descAlignY=55&descSize=18)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Rishav%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58" />
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Full+Stack+(MERN)+Developer;Building+AI-Powered+Web+Applications;Java+%7C+JavaScript+%7C+MongoDB" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;MERN+Stack+Developer;Building+Scalable+Products;Open+Source+Contributor" />
+</p>
 
-![CGPA](https://img.shields.io/badge/CGPA-8.2%2F10.0-6D28D9?style=for-the-badge&labelColor=1a1a2e)
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
+<p align="center">
 
-<a href="mailto:rishavkumarjmp95@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rishavkumarjmp95%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
-</a>
-<a href="https://github.com/rishavkumar8876">
-  <img src="https://img.shields.io/badge/GitHub-rishavkumar8876-6e40c9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-</a>
-<a href="https://www.linkedin.com/in/rishav-kumar-02242731b">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
-</a>
+![](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-8.2%2F10-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/AI%20Engineer-MERN%20Developer-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20to-Full%20Time-4F46E5?style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rishavkumar8876&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/rishavkumar8876?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/rishavkumar8876?style=for-the-badge&color=6d28d9&labelColor=1a1a2e)
+</p>
 
-</div>
+<p align="center">
 
----
+![](https://img.shields.io/badge/Location-Bihar%2C%20India-7C3AED?style=flat-square)
+<a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=flat-square&logo=linkedin"/></a>
+<a href="mailto:rishavkumarjmp95@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=flat-square&logo=gmail"/></a>
+<a href="https://github.com/rishavkumar8876"><img src="https://img.shields.io/badge/GitHub-Follow-5B21B6?style=flat-square&logo=github"/></a>
 
-### 🧠 About Me
+</p>
 
-```yaml
-name: Rishav Kumar
-role: Entry-Level Software Developer
-focus: Full-Stack Engineering (MERN) + AI-Integrated Applications
-education: B.Tech in Computer Science, C.V. Raman Global University (2022 - 2026)
-```
+<p align="center">
 
-I'm a Computer Science graduate with a strong foundation in **Object-Oriented Programming, Data Structures & Algorithms**, and hands-on experience building **full-stack, AI-integrated web applications**. I enjoy engineering systems end-to-end — from designing secure REST APIs and authentication flows to integrating LLM-powered features like resume parsing and conversational AI.
+![](https://komarev.com/ghpvc/?username=rishavkumar8876&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/rishavkumar8876?style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/stars/rishavkumar8876?style=for-the-badge&color=5B21B6)
 
-- 🔭 Currently building full-stack applications using the **MERN stack**
-- 🤖 Actively integrating **Google Gemini AI** into real-world products
-- 🌱 Strengthening my foundations in **DSA** and scalable system design
-- 🎯 **Open to:** Entry-Level Software Developer / Full-Stack Developer roles
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+# About Me
 
-**Languages**
+I am a **Software Engineer** with a strong foundation in **Full Stack Development, Artificial Intelligence, Machine Learning, and scalable backend systems**. I enjoy designing enterprise-grade software that solves real-world problems while maintaining clean architecture, performance, and security.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+My engineering interests include modern web technologies, AI-powered applications, distributed systems, backend architecture, cloud-native development, and open-source collaboration.
 
-**Frontend**
+I focus on writing maintainable, production-quality software with a product engineering mindset.
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Context API](https://img.shields.io/badge/Context%20API-149ECA?style=flat-square&logo=react&logoColor=white)
+### Open To
 
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square&logo=fastapi&logoColor=white)
+- Software Engineer
+- Full Stack Developer
+- Backend Developer
+- AI Engineer
+- Machine Learning Engineer
+- Open Source Collaboration
 
 ---
 
-### 🤖 AI / ML Expertise
+# Tech Stack
+
+## Languages
+
+<p>
+
+![](https://skillicons.dev/icons?i=java,js,python,c,html,css,sql)
+
+</p>
+
+## Frontend
+
+<p>
+
+![](https://skillicons.dev/icons?i=react,vite,redux,tailwind,bootstrap)
+
+</p>
+
+## Backend & Databases
+
+<p>
+
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase)
+
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p>
+
+![](https://skillicons.dev/icons?i=git,github,postman,vscode,docker,vercel,netlify)
+
+</p>
+
+---
+
+# AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|---|---|---|
-| LLM API Integration | ⭐⭐⭐⭐ | Google Gemini AI integrated for resume parsing, skill extraction, and conversational responses |
-| Prompt-Driven Automation | ⭐⭐⭐⭐ | Automated resume/skill extraction pipelines, reducing manual data entry by 90% |
-| Matching Algorithms | ⭐⭐⭐ | Custom weighted skill-matching algorithm for candidate-job recommendations |
-| Conversational AI | ⭐⭐⭐ | Real-time AI chat app with context-aware responses & Markdown/code rendering |
+|---------|-------------|----------|
+| Machine Learning | Advanced | Model Integration, AI Applications |
+| Generative AI | Advanced | Google Gemini API Integration |
+| NLP | Intermediate | Resume Parsing, Skill Extraction |
+| Recommendation Systems | Advanced | Intelligent Candidate Matching |
+| Computer Vision | Intermediate | AI-based Recognition Systems |
+| REST API Integration | Advanced | AI Service Integration |
+| Authentication | Advanced | JWT, bcrypt, Role-based Access |
+| Product Engineering | Advanced | AI-first Product Development |
 
 ---
 
-### 🚀 Featured Projects
+# Featured Projects
 
 <details>
-<summary><b>🎯 AI-Powered Job Portal</b> — MERN Stack, Google Gemini AI, JWT Authentication</summary>
+<summary><b>AI Powered Job Portal</b></summary>
 
-<br>
+Enterprise-grade recruitment platform built with MERN Stack and Google Gemini AI for intelligent job matching.
 
-A full-stack job matching platform serving dual user roles (recruiters & job seekers), with AI-driven resume parsing and intelligent candidate-job matching.
+| Feature | Details |
+|----------|----------|
+| Stack | React, Node.js, Express, MongoDB, Gemini AI |
+| Scale | Recruiters & Job Seekers |
+| Performance | AI-assisted Resume Parsing |
+| Security | JWT + bcrypt + RBAC |
+| Impact | Intelligent Skill Matching |
+| Repository | https://github.com/rishavkumar8876 |
 
-| Category | Details |
-|---|---|
-| **Stack** | React.js, Node.js, Express.js, MongoDB, Google Gemini AI |
-| **Access Control** | 100% role-based access for recruiters and job seekers |
-| **Automation** | 90% reduction in manual data entry via AI resume parsing |
-| **Matching Accuracy** | 75% improvement via custom weighted skill-matching algorithm |
-| **Security** | JWT authentication, bcrypt password hashing, role-based authorization |
-| **Repository** | *Add repo link* |
+### Highlights
 
-Engineered end-to-end: authentication, role management, AI-based resume/skill extraction, and a custom match-scoring engine that compares candidate skills against job requirements.
+- AI Resume Parsing
+- Skill Extraction
+- Intelligent Match Score
+- Role Based Dashboard
+- Secure Authentication
+- Recruiter Management
+- Candidate Tracking
 
 </details>
 
 <details>
-<summary><b>💬 AI Chat Application</b> — MERN Stack, Google Gemini AI, Context API</summary>
+<summary><b>AI Chat Application</b></summary>
 
-<br>
+Production-ready conversational AI platform powered by Google Gemini API.
 
-A real-time AI conversational application with persistent, user-specific chat history and multi-user session support.
+| Feature | Details |
+|----------|----------|
+| Stack | MERN + Gemini AI |
+| Scale | Multi-user |
+| Performance | Context-aware Responses |
+| Security | JWT Authentication |
+| Impact | Persistent Conversations |
+| Repository | https://github.com/rishavkumar8876 |
 
-| Category | Details |
-|---|---|
-| **Stack** | React.js (Context API), Node.js, Express.js, MongoDB, Google Gemini AI |
-| **Persistence** | Per-user chat history stored in MongoDB |
-| **Concurrency** | Supports concurrent multi-user sessions |
-| **Security** | JWT-based authentication with bcrypt encryption |
-| **UX** | Markdown rendering, syntax-highlighted code blocks, Web Speech API voice input |
-| **Repository** | *Add repo link* |
+### Highlights
 
-Built with a focus on responsive state management via React Context API, isolated per-user chat threads, and smooth UI animations.
+- Markdown Rendering
+- Code Highlighting
+- Voice Input
+- Chat History
+- Responsive UI
+- Context API
+- Secure Login
 
 </details>
 
 ---
 
-### 🎓 Achievements
+# Experience
 
-<div align="center">
+## Full Stack Developer
+
+**Freelance Project – Chiltel**
+
+**2025 – Present**
+
+Worked as the primary Full Stack Developer, building both customer-facing and admin applications from scratch.
+
+### Responsibilities
+
+- Developed frontend and backend modules
+- Designed REST APIs
+- Built Admin Portal
+- Implemented Authentication
+- Firebase Integration
+- Database Design
+- Performance Optimization
+- Bug Fixing
+- Deployment Support
+
+**Skills**
+
+`React` `Node.js` `Express` `MongoDB` `Firebase` `JWT` `REST API`
+
+---
+
+# Achievements
 
 | Recognition | Details |
-|---|---|
-| Introduction to UI/UX Design (Coursera) | Completed a comprehensive course on user-centered design principles |
-| Problem Solving | Strong foundation in DSA with focus on optimizing algorithmic solutions in Java |
-
-</div>
-
----
-
-### 📜 Certifications
-
-![Coursera](https://img.shields.io/badge/Coursera-Introduction%20to%20UI%2FUX%20Design-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+|-------------|----------|
+| B.Tech CSE | CGPA 8.2 |
+| MERN Developer | Built Production Applications |
+| AI Integration | Google Gemini Projects |
+| Full Stack Development | End-to-End Product Development |
+| Problem Solving | Strong DSA Foundation |
 
 ---
 
-### 💻 Coding Profiles
+# Certifications
 
-<div align="center">
+## AWS
 
-<a href="https://leetcode.com/u/7SkaEIauL0/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+![](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Java-CC2927?style=for-the-badge&logo=oracle)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Certified-5C2D91?style=for-the-badge)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco)
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+
 </a>
 
-</div>
+<a href="https://www.geeksforgeeks.org/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+
+</a>
+
+<a href="https://www.hackerrank.com/">
+
+<img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank"/>
+
+</a>
+
+<a href="https://www.codechef.com/">
+
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>
+
+</a>
+
+</p>
 
 ---
 
-### 📊 GitHub Analytics
+# GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavkumar8876&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rishavkumar8876&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Streak Stats](https://streak-stats.demolab.com?user=rishavkumar8876&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=8b5cf6)
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavkumar8876&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavkumar8876&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
+</p>
 
-</div>
+<p align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavkumar8876&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rishavkumar8876&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10)
-
-</div>
+</p>
 
 ---
 
-### 📈 Contribution Activity
+# GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishavkumar8876&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9)
+<img src="https://github-profile-trophy.vercel.app/?username=rishavkumar8876&theme=algolia&no-frame=true&margin-w=10"/>
 
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/rishavkumar8876/rishavkumar8876/output/github-contribution-grid-snake.svg)
-
-</div>
+</p>
 
 ---
 
-### 🎯 Current Focus
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishavkumar8876&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/rishavkumar8876/rishavkumar8876/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Current Focus
 
 ```yaml
 Learning:
-  - Advanced Data Structures & Algorithms
-  - System Design fundamentals
-  - Cloud deployment for MERN applications
+  - System Design
+  - Cloud Computing
+  - Kubernetes
+  - Advanced Backend Architecture
 
 Building:
-  - AI-integrated full-stack products
-  - Scalable RESTful backend architectures
+  - AI Products
+  - Enterprise MERN Applications
+  - Open Source Projects
 
 Exploring:
-  - LLM-powered developer tooling
-  - Prompt engineering for production apps
+  - Distributed Systems
+  - LLM Applications
+  - DevOps
+  - Microservices
 
 Open To:
-  - Entry-Level Software Developer roles
-  - Full-Stack Developer roles
-  - Collaborative open-source projects
+  - Software Engineering Roles
+  - AI Engineering Roles
+  - Open Source Contributions
+  - Freelance Opportunities
 ```
 
 ---
 
-### 📬 Connect With Me
+# Connect
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:rishavkumarjmp95@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rishav-kumar-02242731b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/rishavkumar8876">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-rishavkumarjmp95@gmail.com-D14836?style=for-the-badge&logo=gmail"/>
+
 </a>
 
-</div>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+<img src="https://img.shields.io/badge/LinkedIn-Rishav%20Kumar-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/rishavkumar8876">
+
+<img src="https://img.shields.io/badge/GitHub-rishavkumar8876-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://your-portfolio.vercel.app">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+> *"Engineering is not just writing code—it's building reliable solutions that create lasting impact."*
 
-*"Building software that solves real problems, one commit at a time."*
+<p align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
 
-</div>
-
-
-
+</p>
