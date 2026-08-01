@@ -104,7 +104,7 @@ A full-stack job matching platform serving dual user roles (recruiters & job see
 | **Automation** | 90% reduction in manual data entry via AI resume parsing |
 | **Matching Accuracy** | 75% improvement via custom weighted skill-matching algorithm |
 | **Security** | JWT authentication, bcrypt password hashing, role-based authorization |
-| **Repository** | *Add repo link* |
+| **Repository** | *https://github.com/rishavkumar8876/Job-Portal* |
 
 Engineered end-to-end: authentication, role management, AI-based resume/skill extraction, and a custom match-scoring engine that compares candidate skills against job requirements.
 
@@ -124,7 +124,7 @@ A real-time AI conversational application with persistent, user-specific chat hi
 | **Concurrency** | Supports concurrent multi-user sessions |
 | **Security** | JWT-based authentication with bcrypt encryption |
 | **UX** | Markdown rendering, syntax-highlighted code blocks, Web Speech API voice input |
-| **Repository** | *Add repo link* |
+| **Repository** | *https://github.com/rishavkumar8876/ChatBot* |
 
 Built with a focus on responsive state management via React Context API, isolated per-user chat threads, and smooth UI animations.
 
@@ -158,6 +158,10 @@ Built with a focus on responsive state management via React Context API, isolate
 <a href="https://leetcode.com/u/7SkaEIauL0/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+<a href="https://www.geeksforgeeks.org/profile/rishavkumrwlo?tab=overview">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
 
 </div>
 
