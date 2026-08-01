@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Full+Stack+(MERN)+Developer;Building+AI-Powered+Web+Applications;Java+%7C+JavaScript+%7C+MongoDB" alt="Typing SVG" />
 </a>
 
-![CGPA](https://img.shields.io/badge/CGPA-8.2%2F10.0-6D28D9?style=for-the-badge&labelColor=1a1a2e)
+![CGPA](https://img.shields.io/badge/CGPA-8.4%2F10.0-6D28D9?style=for-the-badge&labelColor=1a1a2e)
 ![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge&labelColor=1a1a2e)
 ![Location](https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
 
