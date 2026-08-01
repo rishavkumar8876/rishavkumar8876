@@ -171,11 +171,11 @@ Built with a focus on responsive state management via React Context API, isolate
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavkumar8876&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rishavkumar8876&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9)
 
 ![Streak Stats](https://streak-stats.demolab.com?user=rishavkumar8876&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=8b5cf6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavkumar8876&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rishavkumar8876&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
 
 </div>
 
@@ -185,7 +185,7 @@ Built with a focus on responsive state management via React Context API, isolate
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rishavkumar8876&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10)
+![Trophies](https://github-trophies.vercel.app/?username=rishavkumar8876&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10)
 
 </div>
 
